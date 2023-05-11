@@ -27,6 +27,7 @@ const Footer = () => {
                     href="https://istore.com/"
                     target="_blank"
                     className="hover:underline"
+                    rel="noreferrer"
                   >
                     iStore
                   </a>
@@ -35,6 +36,7 @@ const Footer = () => {
                   <a
                     href="https://samsung.com/"
                     target="_blank"
+                    rel="noreferrer"
                     className="hover:underline"
                   >
                     Samsung
@@ -52,6 +54,7 @@ const Footer = () => {
                     href="https://facebook.com/"
                     target="_blank"
                     className="hover:underline "
+                    rel="noreferrer"
                   >
                     Facebook
                   </a>
@@ -61,6 +64,7 @@ const Footer = () => {
                     href="https://instagram.com/"
                     target="_blank"
                     className="hover:underline "
+                    rel="noreferrer"
                   >
                     Instagram
                   </a>
@@ -100,6 +104,7 @@ const Footer = () => {
               href="https://facebook.com/"
               className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
               target="_blank"
+              rel="noreferrer"
             >
               <svg
                 className="w-5 h-5"
@@ -119,6 +124,7 @@ const Footer = () => {
               href="https://instagram.com/"
               className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
               target="_blank"
+              rel="noreferrer"
             >
               <svg
                 className="w-5 h-5"
@@ -138,6 +144,7 @@ const Footer = () => {
               href="https://twitter.com/"
               className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
               target="_blank"
+              rel="noreferrer"
             >
               <svg
                 className="w-5 h-5"
