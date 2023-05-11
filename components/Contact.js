@@ -55,10 +55,7 @@ const Contact = () => {
 
         <form onSubmit={handleSubmit} className="space-y-8">
           <div>
-            <label
-              for="email"
-              className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300"
-            >
+            <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">
               Your email
             </label>
             <input
@@ -72,10 +69,7 @@ const Contact = () => {
             />
           </div>
           <div>
-            <label
-              for="subject"
-              className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300"
-            >
+            <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">
               Subject
             </label>
             <input
@@ -89,10 +83,7 @@ const Contact = () => {
             />
           </div>
           <div className="sm:col-span-2">
-            <label
-              for="message"
-              className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-400"
-            >
+            <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-400">
               Your message
             </label>
             <textarea

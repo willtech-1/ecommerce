@@ -12,7 +12,7 @@ const Map = () => {
           width="700"
           height="400"
           style={{ border: "2px solid #F4F6F6", borderRadius: "8px" }}
-          allowfullscreen=""
+          allowFullScreen=""
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"
         ></iframe>

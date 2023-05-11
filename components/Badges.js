@@ -51,7 +51,7 @@ function Badges({ inputField }) {
             return (
               <article className={position} key={id}>
                 <Image src={image} alt={title} className="person-img" />
-                <div class="flex justify-center items-center mt-4">
+                <div className="flex justify-center items-center mt-4">
                   <svg
                     aria-hidden="true"
                     className="w-5 h-5 text-yellow-400"

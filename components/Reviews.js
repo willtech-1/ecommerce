@@ -55,7 +55,7 @@ const Reviews = () => {
             </blockquote>
             <br />
 
-            <div class="flex justify-center items-center">
+            <div className="flex justify-center items-center">
               <svg
                 aria-hidden="true"
                 className="w-5 h-5 text-yellow-400"
